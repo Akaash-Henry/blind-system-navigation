@@ -1,1 +1,2 @@
 # blind-system-navigation
+The blind navigation system is used for identifing the object available infront of the arduino camera and providing a audio output for which direction the objects are infront of the camera and providing the appropriate directions for navigation around the obstacles. The model uses Yolov8 for object detection and it uses an embedded system as a camera piece for easy management and friendly yet effective usage
